@@ -9,14 +9,16 @@
   - title: Tokyo Ueno Station
     author: Yu Miri
     cover: /images/books/9780593088029.jpg
-  - title: I Who Have Never Known Men
-    author: Jacqueline Harpman
-    cover: /images/books/9781945492600.jpg
   - title: Klara and the Sun
     author: Kazuo Ishiguro
     cover: /images/books/9780593318171.jpg
 - section: '2026'
   books:
+  - title: I Who Have Never Known Men
+    author: Jacqueline Harpman
+    cover: /images/books/9781945492600.jpg
+    rating: 4
+    note: sensational, eerie, left me so uncomfy (-1 for some misogynistic conditioning)
   - title: Oh William!
     author: Elizabeth Strout
     cover: /images/books/9780812989434.jpg
