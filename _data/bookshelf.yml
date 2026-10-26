@@ -12,8 +12,21 @@
   - title: Klara and the Sun
     author: Kazuo Ishiguro
     cover: /images/books/9780593318171.jpg
+  - title: Brooklyn
+    author: Colm Tóibín
+    cover: /images/books/9781439138311.jpg
 - section: '2026'
   books:
+  - title: The Lonely Girl
+    author: Edna O'Brien
+    cover: /images/books/9780571397914.jpg
+    rating: 2.5
+    note: 'gosh, i hated this book, couldn''t understand any motivations, tldr: don''t date emotionally unavail old men :D'
+  - title: Mother Night
+    author: Kurt Vonnegut
+    cover: /images/books/9780385334143.jpg
+    rating: 4.5
+    note: i love subtle satire! want to read more of him
   - title: I Who Have Never Known Men
     author: Jacqueline Harpman
     cover: /images/books/9781945492600.jpg
