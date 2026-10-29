@@ -12,11 +12,16 @@
   - title: Klara and the Sun
     author: Kazuo Ishiguro
     cover: /images/books/9780593318171.jpg
+  - title: Pale Fire
+    author: Vladimir Nabokov
+    cover: /images/books/9780679723424.jpg
+- section: '2026'
+  books:
   - title: Brooklyn
     author: Colm Tóibín
     cover: /images/books/9781501106477.jpg
-- section: '2026'
-  books:
+    rating: 3
+    note: it's my second toibin book and i really am unhappy w the endings - it's like sooo much missed potential - w the audacity of an aspiring writer, i really think i could've done this better :D
   - title: The Lonely Girl
     author: Edna O'Brien
     cover: /images/books/9780571397914.jpg
