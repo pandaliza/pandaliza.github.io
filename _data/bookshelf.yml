@@ -17,9 +17,9 @@
     cover: /images/books/9780679723424.jpg
 - section: '2026'
   books:
-  - title: The Metamorphosis
+  - title: Metamorphosis
     author: Franz Kafka
-    cover: /images/books/9780393347098.jpg
+    cover: /images/books/metamorphosis.jpg
     rating: 4.5
     note: '"if it was gregor, he would have died long ago..."; social commentary is so subtle yet so loud. would you love me if i was a worm? except not.'
   - title: Brooklyn
@@ -102,7 +102,6 @@
     note: lovely japanese story! the characters were super loving. 1/2 books to ever make me cry!
     cover: /images/books/9781786071958.jpg
     rating: 5
-    lifechanging: true
   - title: Small Things Like These
     author: Claire Keegan
     note: very well written, such short book but covered such hidden topics
