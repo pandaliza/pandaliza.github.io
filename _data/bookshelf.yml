@@ -15,6 +15,12 @@
   - title: Pale Fire
     author: Vladimir Nabokov
     cover: /images/books/9780679723424.jpg
+  - title: Giovanni's Room
+    author: James Baldwin
+    cover: /images/books/9780141186351.jpg
+  - title: Night
+    author: Elie Wiesel
+    cover: /images/books/9780374500016.jpg
 - section: '2026'
   books:
   - title: Metamorphosis
@@ -146,6 +152,11 @@
     rating: 3.5
 - section: '2024'
   books:
+  - title: 'Sapiens: A Brief History of Humankind'
+    author: Yuval Noah Harari
+    cover: /images/books/9780062316097.jpg
+    rating: 4
+    note: scratched my science itch a bit; i want more
   - title: Norwegian Wood
     author: Haruki Murakami
     note: read this book on my first solo trip in Japan. was deeply touched
