@@ -15,14 +15,18 @@
   - title: Pale Fire
     author: Vladimir Nabokov
     cover: /images/books/9780679723424.jpg
-  - title: Giovanni's Room
-    author: James Baldwin
-    cover: /images/books/9780141186351.jpg
   - title: Night
     author: Elie Wiesel
     cover: /images/books/9780374500016.jpg
 - section: '2026'
   books:
+  - title: Giovanni's Room
+    author: James Baldwin
+    cover: /images/books/9780141186351.jpg
+    rating: 4.5
+    note: |-
+      what i felt for giovanni (piano man), i felt for him (jazz boi). fraud man-hater, i think i like men (unfortunate).
+      baldwin really had a way w words - one moment i was giovanni begging to be accepted and the other david refusing love to someone i should give oh so freely
   - title: Metamorphosis
     author: Franz Kafka
     cover: /images/books/metamorphosis.jpg

@@ -252,7 +252,7 @@ author_profile: true
           </div>
           {% endif %}
           {% if book.note %}
-            <p class="book-note">{{ book.note }}</p>
+            <p class="book-note">{{ book.note | newline_to_br }}</p>
           {% endif %}
         </div>
       </div>
